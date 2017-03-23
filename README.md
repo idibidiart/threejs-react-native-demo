@@ -29,7 +29,7 @@ npm install
 
 #### Expo direct link
 ```sh
-exp://wv-sif.jimmylee.threejs-react-native-demo.exp.direct
+https://exp.host/@jimmylee/threejs-expo
 ```
 <br />
 <br />

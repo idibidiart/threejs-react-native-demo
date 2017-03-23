@@ -1,6 +1,6 @@
 {
   "name": "threejs-expo",
-  "description": "An empty new project",
+  "description": "A React Native, Expo.io, and ThreeJS Demo",
   "slug": "threejs-expo",
   "privacy": "public",
   "sdkVersion": "15.0.0",
